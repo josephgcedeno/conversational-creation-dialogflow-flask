@@ -3,7 +3,7 @@
 ## Requirements
 
 - Google account
-- Python installed on the system. (At least >= 3.11.x) [Download here](https://www.python.org/downloads/)
+- Python installed on the system. (At least >= 3.11.x) [Download here](https://www.python.org/downloads/release/python-3115/)
 - Ngrok [Download here](https://ngrok.com)
 
 ## Implement and design chatbot
